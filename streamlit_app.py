@@ -38,8 +38,8 @@ st.markdown(
 )
 
 # Define API URLs for the Mentor and Expert models
-API_URL_MENTOR = "https://flowise-arvh.onrender.com/api/v1/prediction/0647008b-1989-4d04-9e96-ba05c2c9cb91"
-API_URL_EXPERT = "https://flowise-arvh.onrender.com/api/v1/prediction/1731ee13-cea5-499c-b2b1-94c7259a2721"
+API_URL_MENTOR = "https://flowise-arvh.onrender.com/api/v1/prediction/9ff55b9b-b8d5-4678-ad8d-7e356ace6897"
+API_URL_EXPERT = "https://flowise-arvh.onrender.com/api/v1/prediction/59d674de-b67a-4a81-b67d-537d5b8d18e9"
 
 # List of randomized "thinking" messages
 thinking_messages = [
@@ -174,7 +174,7 @@ st.markdown(
     - Built using a multiple-agent framework, I can deliver more accurate insights with sharper reasoning than ChatGPT. 
     - 🎓 **Mentor Mode**: I serve as your personal tutor, encouraging thoughtful reflection and helping you develop your career for continuous improvement.
     - 💯 **Expert Mode**: I deliver advanced, high-precision insights to address complex questions with maximum accuracy. (I will think longer, please be patient!)
-    - 🏆 [**Interview Game**](#): Engage in a competitive interview simulation challenge against me.
+    - 🏆 **Interview Game**: Engage in a competitive interview simulation challenge against me.
     """
 )
 
