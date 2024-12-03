@@ -122,7 +122,7 @@ with st.sidebar:
         """
         <div style="margin-top: 20px; border-top: 1px solid #ccc; padding-top: 10px; text-align: center;">
             <small style="color: white;">For Feedback or Concerns, contact: <a href="mailto: harris2004.wang@gmail.com" style="color: white;">harris2004.wang@gmail.com</a></small><br>
-            <small><a href="https://docs.google.com/forms/d/e/1FAIpQLSelI6yZWQ4h0hWD7gSu6RzSwj-h_pSYkYT7Fdu2EHNgCkvQwA/viewform" target="_blank" style="color: white;">Feedback Form</a></small>
+            <small><a href="https://forms.gle/ZCMJPLB3oeR6mMEo9" target="_blank" style="color: white;">Feedback Form</a></small>
         </div>
         """,
         unsafe_allow_html=True
